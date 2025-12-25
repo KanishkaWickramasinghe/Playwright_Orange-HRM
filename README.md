@@ -186,6 +186,6 @@ npx playwright test --project=chromium --grep-invert @quarantine --workers=4 --r
 
 ---
 
-**Author:** Your Name
-**Date:** YYYY-MM-DD
+**Author:** Kanishka Wickramasinghe
+**Date:** 2025-12-25
 **Project Version:** 1.0.0
